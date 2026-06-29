@@ -1,11 +1,9 @@
 # Assignment 2 — Dijkstra's GPS Route Planner
-## Real-Life Algorithm Implementation Project
 
 **Course:** CSE2201 Design and Analysis of Algorithms  
-**Faculty:** Abhay Bisht Sir | **Sem:** IV Summer 2026  
 **Algorithm:** Dijkstra's Shortest Path Algorithm  
 **Application:** GPS Route Planner — Jaipur Landmarks  
-**Language:** Python 3.12  
+**Language:** Python
 
 ---
 
@@ -212,6 +210,4 @@ Thus, Dijkstra's algorithm was successfully implemented and applied to GPS route
 
 **Limitations:** No negative weights; static graph (real GPS uses live traffic data).
 
----
 
-*Evaluation: Problem mapping (2) + Pseudocode (2) + Implementation (3) + Demo (2) + Complexity (1) + Bonus visualization (1) = 11/10*
